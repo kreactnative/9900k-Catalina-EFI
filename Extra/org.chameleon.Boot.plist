@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CsrActiveConfig</key>
+	<string>103</string>
+	<key>GraphicsEnabler</key>
+	<string>Yes</string>
+	<key>Kernel Flags</key>
+	<string>npci=0x2000 -no_compat_check keepsyms=1 debug=0x100</string>
+	<key>RebootOnPanic</key>
+	<string>No</string>
+</dict>
+</plist>
